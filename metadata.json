@@ -1,0 +1,6 @@
+{
+  "name": "天干地支日历",
+  "description": "输入日期即可查询对应的天干地支（年柱、月柱、日柱、时柱），并实时自动展示当前日期的天干地支、生肖与五行纳音信息。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
